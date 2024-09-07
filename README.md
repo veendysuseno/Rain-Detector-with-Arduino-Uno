@@ -8,7 +8,7 @@
 
 - Below you can see a schematic image to facilitate the wiring of cables from the microcontroller to devices, both input and output sensors:
 
-![Circuit Schematic](img/skema.jpg)
+![Circuit Schematic](img/)
 
 ## Component (Tools & Materials):
 
